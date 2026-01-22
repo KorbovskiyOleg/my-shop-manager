@@ -1,4 +1,4 @@
-package com.olegkorbovskij;
+package manager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

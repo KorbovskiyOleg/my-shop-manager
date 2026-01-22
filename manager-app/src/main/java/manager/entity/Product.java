@@ -1,4 +1,4 @@
-package com.olegkorbovskij.manager.entity;
+package manager.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
